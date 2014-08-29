@@ -1,0 +1,23 @@
+name: Runescape
+main: me.johngreen.com.Main
+version: 1.0
+depend: [ProtocolLib]
+commands:
+  acceptfight:
+    description: Admin command.
+  denyfight:
+    description: Admin command.
+  accepttrade:
+    description: Admin command.
+  denytrade:
+    description: Admin command.
+  createnpc:
+    description: Admin command.
+  createmob:
+    description: Admin command.
+  player:
+    description: Admin command.
+  playervote:
+    description: Admin command.
+  withdraw:
+    description: Lets you withdraw money from your money pouch.
